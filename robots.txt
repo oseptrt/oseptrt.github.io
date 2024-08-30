@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://oseptrt.github.io/sitemap/sitemap.txt
